@@ -1,4 +1,4 @@
-Netflix Project 
+/* Netflix Project 
 
 Netflix Content Analysis — PostgreSQL & Tableau
 
@@ -45,7 +45,7 @@ The analysis includes:
 17. Content by era and genre
 18. Director rankings by country
 19. TV show season distribution
-20. Content recency classification 
+20. Content recency classification */
 
 
 -- STAGE 1: DROP EXISTING TABLE
