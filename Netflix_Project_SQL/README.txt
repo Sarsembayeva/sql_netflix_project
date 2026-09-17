@@ -1,4 +1,4 @@
-# Netflix Content Analysis — PostgreSQL & Tableau
+# Netflix Content Analysis — PostgreSQL 
 
 ## Project Overview
 
@@ -6,8 +6,7 @@ This project analyzes Netflix's content catalog using PostgreSQL
 
 The goal is to explore the composition, growth, geographic distribution, and characteristics of Netflix's content while demonstrating practical **SQL data analysis and business intelligence skills**.
 
-The project covers data exploration, cleaning, transformation, aggregation, and advanced analytical techniques in PostgreSQL, followed by data visualization and storytelling in Tableau.
-
+The project covers data exploration, cleaning, transformation, aggregation, and advanced analytical techniques in PostgreSQL.
 ### Key Objectives
 
 * Analyze the distribution and percentage breakdown of **Movies vs. TV Shows**.
